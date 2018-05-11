@@ -6,6 +6,8 @@ Sublime Text3 Editor for Windows
 2. Gitgutter
 3. SublimeLinter
 4. Python PEP8 Autoformat
+5. Jedi
+6. Magic Python
 
 
 ### Color Schemes:

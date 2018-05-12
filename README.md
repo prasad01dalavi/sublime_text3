@@ -19,7 +19,16 @@ Sublime Text3 Editor for Windows
 
 
 ### Custom Builds:
-1. Python3
+1. Python2
+```bash
+{
+    "cmd": ["C:\\Python27\\python", "-u", "$file"],
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+    "selector": "source.python"
+}
+```
+
+2. Python3
 ```bash
 {
     "cmd": ["C:\\Users\\Prasad\\AppData\\Local\\Programs\\Python\\Python36-32\\python", "-u", "$file"],
@@ -28,7 +37,7 @@ Sublime Text3 Editor for Windows
 }
 ```
 
-2. Anaconda2
+3. Anaconda2
 ```bash
 {
     "cmd": ["C:\\ProgramData\\Anaconda2\\python", "-u", "$file"],

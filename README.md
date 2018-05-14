@@ -8,7 +8,8 @@ Sublime Text3 Editor for Windows
 4. Python PEP8 Autoformat
 5. Jedi
 6. Magic Python
-
+7. A File Icon
+8. SublimeREPL
 
 ### Color Schemes:
 1. Monokai
